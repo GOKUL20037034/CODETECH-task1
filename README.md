@@ -19,6 +19,13 @@ OBJECTIVE
 The objective of the project is to visualize sales data create visuals such as bar charts , line charts , and pie charts sales data's are import from excel file.
 
 
+Technologies Used 
+
+* POWER BI
+
+* EXCEL FILE OF SALES DATA 
+
+
 
 
 ![Screenshot 2024-07-13 094725](https://github.com/user-attachments/assets/18d60d78-efea-4502-80a9-edf9e0e283c4)
